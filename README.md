@@ -11,11 +11,14 @@
 
 ### Git Hub
 ---
-- git clone
-- git add
-- git commit (comments)
-- git push
-- git pull
+###### Some Github commands
+- git clone : downloads the referenced repository on the github website to your computer.
+- git add : allows you to reconcile changes made to files prior to git push.
+- git commit -m "comments here plz" : track changes made to files with comments
+- git push : sends files that have been edited on your computer to the hub.
+- git pull : pulls files on the hub to your computer. Always git pull
+
+  **Github allows many people to access and work on the same project at the same time.**
 
 ### JavaScript
 - console.log
