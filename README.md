@@ -21,7 +21,7 @@
   **Github allows many people to access and work on the same project at the same time.**
 
 ### JavaScript
-- ![concatenation](https://images.sr.roku.com/idType/roku/context/trc/id/6a3ed951cfa85f17a6ad20f678f59f77/images/gracenote/assets/p15211144_v_v8_ab.jpg) vs. number stuff
+- ![concatenation](https://images.unsplash.com/photo-1478098711619-5ab0b478d6e6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80) vs. number stuff
 - concatenation : in the context of programming, is the operation of joining two strings together. The term "concatenation" literally means to merge two things together. 
 - In Javascript we have used the addition symbol to do math and also to concatenate strings. Strings : basically a series of letter characters. We have also used maths symbols to perform math functions.
 - JavaScript reads the code from top to bottom and left to right, it executes the code in the order read. 
